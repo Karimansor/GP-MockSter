@@ -1,4 +1,4 @@
-# Redesign the graduation project with a modern coding vibe and handle the backend tasks.
+# Redesign  GP with a modern coding vibe and handle the backend tasks.
 
 **Mock Interview App with CV Analysis**
 
